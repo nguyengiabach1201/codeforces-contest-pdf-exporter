@@ -7,7 +7,14 @@
 // @match        https://codeforces.com/group/*/contest/*
 // @match        https://codeforces.com/gym/*
 // @match        https://codeforces.com/contest/*
+// @match        https://*.*.codeforces.com/group/*/contest/*
+// @match        https://*.*.codeforces.com/gym/*
+// @match        https://*.*.codeforces.com/contest/*
 // @grant        none
+// @esversion 11
+// @version 1.0
+// @downloadURL https://update.greasyfork.org/scripts/536783/Codeforces%3A%20Export%20All%20Problems%20to%20PDF.user.js
+// @updateURL https://update.greasyfork.org/scripts/536783/Codeforces%3A%20Export%20All%20Problems%20to%20PDF.meta.js
 // ==/UserScript==
 
 (function () {
